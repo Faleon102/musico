@@ -13,7 +13,7 @@ class instrumentos(metaclass = abc.ABCMeta):
         pass
 
     @abc.abstractmethod    
-    def __tocar__(self, nota):
+    def __tocara__(self, nota):
         pass
 
 
